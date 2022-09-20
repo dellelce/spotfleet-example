@@ -12,10 +12,8 @@ all commands are executed through ```Gnu Make```, example:
 make help
 ```
 
-|----------------------|---------------------------------|
 | target               | Description                     |
 |----------------------|---------------------------------|
 | help                 | Help message                    |
 | terrabin             | Install Terraform locally       |
 | keys                 | Generate SSH keys               |
-|----------------------|---------------------------------|
