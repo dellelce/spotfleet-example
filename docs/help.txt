@@ -1,0 +1,8 @@
+
+Makefile help
+
+help:            This message
+terrabin:        Install terraform locally (in ./bin)
+terravers:       Check online which is the latest terraform
+terraversion:    Check installed version of terraform
+keys             Generate SSH keys
