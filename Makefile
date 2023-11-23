@@ -55,6 +55,7 @@ refresh:
 $(KEYS):
 	@ssh-keygen -t rsa -b 2048 -f $(KEYS) -N ""
 
+.PHONY: keys
 keys: $(KEYS)
 
 output:
